@@ -1,7 +1,7 @@
 # ROBLOX-LIMITED-SNIPER
 this overpowered tool makes sure to find the best deals for you and your roblox account
 
-This limited sniper will ONLY work if you star it. Star goal: (2/5)
+This limited sniper will ONLY work if you star it. Star goal: (2/3)
 
 • Discord Webhook support (get the cheapest limiteds by discord)
 
